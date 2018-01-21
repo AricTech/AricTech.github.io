@@ -11,8 +11,9 @@ Website Content:
 		-Hardware Repair
 		-OS update/install
 		-Network Consultation/Troubleshooting
-	-About AricTech
-		-AricTech Description with link back to Services
+	-About
+		-About AricTech
+			-Description with link back to Services
 		-Interesting Links
 			-distrowatch
 			-link for remote support
