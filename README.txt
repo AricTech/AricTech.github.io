@@ -2,28 +2,19 @@ Das Plan:
 
 Website Content:
 	-Home
-		-Link to About AricTech
-		-Link to Services
-		-Link to Contact US
-		-Link to the Projects
-	-Services
-		-PC Cleanup
-		-Hardware Repair
-		-OS update/install
-		-Network Consultation/Troubleshooting
-	-About
-		-About AricTech
-			-Description with link back to Services
-		-Interesting Links
-			-distrowatch
-			-link for remote support
-		-My Personal Projects
-			-About The Projects
+	-Interesting Links
+		-distrowatch
+		-rss feeds
+		-link for remote support
+	-My Projects (links to different pages)
+		-Finished
+		-Started
 			-The Website
 				-HTML5UP
 				-Google domains
 				-Github pages
 				-fixing broken parts of the website
+		-Future
 			-KVM Server (arch Linux)
 			-Owncloud/Nextcloud
 			-Email
@@ -32,12 +23,11 @@ Website Content:
 			-Nagios
 			-Eve-ng
 			-Hacking Game
-				-Create a game that looks similar to cisco's packet tracer that gives users a list of services they need to provide and lets them set it up themselfs. After they are finished they submit their design and an attacker will try to hack the setup.
+				-Create a game that looks similar to cisco's packet tracer that gives users a list of services they need to provide and lets them set it up themselves. After they are finished they submit their design and an attacker will try to hack the setup.
 				-Possibly using eve-ng??
 			-Password Vault
 				-using appspot.com /google cloud platform
-				-writen in python
-
+				-written in python?
 
 
 Escape Velocity by HTML5 UP
