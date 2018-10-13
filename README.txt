@@ -15,7 +15,7 @@ Website Content:
 				-Github pages
 				-fixing broken parts of the website
 		-Future
-			-KVM Server (arch Linux)
+			-KVM Server (arch Linux?) or VMWare?
 			-Owncloud/Nextcloud
 			-Email
 			-VPN
